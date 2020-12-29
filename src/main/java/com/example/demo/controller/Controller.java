@@ -10,6 +10,7 @@ public class Controller {
 	public String test() {
 		System.out.println("shishishisi");
 		System.out.println("nihao");
-		return "HelloWorld";		
+		System.out.println("1234S");
+		return "HelloWorld";
 	}
 }
